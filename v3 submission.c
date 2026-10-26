@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* VERSION 3: Vehicle fuel and mileage system */
+
 int  fill_up_no1,  previous_odometer1,  odometer1, distance1;
 int fill_up_no2,   previous_odometer2, odometer2, distance2;
 int fill_up_no3,   previous_odometer3,  odometer3, distance3;
